@@ -27,19 +27,19 @@ Currently, I'm focused on strengthening my **Data Structures & Algorithms**, lea
 
 ### Languages
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,python,js" />
 </p>
 
 ### Web & Development
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
 ### Database & Tools
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
 </p>
 
@@ -79,16 +79,15 @@ Building Real-World Projects 🚀
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parthsaradava&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=parthsaradava&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthsaradava&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-
 ---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=parthsaradava&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=parthsaradava&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -108,7 +107,7 @@ Building Real-World Projects 🚀
 
 <p align="left">
 
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/parth-saradava-887264378?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+<a href="https://www.linkedin.com/in/parth-saradava-887264378">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
